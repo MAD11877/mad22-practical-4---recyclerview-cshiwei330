@@ -1,4 +1,4 @@
-MAD Practical 4 - RecyclerView
+# MAD Practical 4 - RecyclerView
 Continuing from last week, you will be adding RecyclerView to your app. <br/>
 Follow the instructions below to complete your app.
 
